@@ -11,6 +11,7 @@ bannerURL
 ### Ad
 
 id
+name
 gameId
 yearsPlaying
 discord
